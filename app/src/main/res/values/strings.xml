@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">workoutlog</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enterpassword">EnterPassword</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+</resources>

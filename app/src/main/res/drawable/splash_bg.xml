@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/edgar_chaparro_shfo3woggtu_unsplash"/>
+    <item>
+        <bitmap android:gravity="fill"
+            android:src="@drawable/edgar_chaparro_shfo3woggtu_unsplash"/>
+    </item>
+</selector>
