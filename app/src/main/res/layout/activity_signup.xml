@@ -13,6 +13,10 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="24dp"
+        app:boxCornerRadiusBottomEnd="34dp"
+        app:boxCornerRadiusBottomStart="34dp"
+        app:boxCornerRadiusTopEnd="34dp"
+        app:boxCornerRadiusTopStart="34dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imgfirstname"
         app:layout_constraintTop_toTopOf="parent">
@@ -22,7 +26,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="first name"
-            android:textColorHint="#616161" />
+            android:textColorHint="#616161"
+            tools:ignore="TextContrastCheck" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <ImageView
